@@ -1,0 +1,1 @@
+ENCAPSULATION!! Just create a single UI display controller for everything really and put all game logic in there before you run init. 
